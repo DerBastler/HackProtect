@@ -12,10 +12,10 @@ This code is optimised for a Magento Shop, but you can easly change the code for
 
 # Installing
 
-Create a Folder "stats" in your root Directory
-Copy the files index.php, stats.php and config.php in this Folder
-Add    include "stats/stats.php";    to your index.php
-Create a Database
-Import the "Database.sql" to the new created Database
-change the "config.php with the new 	Database credentials
+ Create a Folder "stats" in your root Directory
+ Copy the files index.php, stats.php and config.php in this Folder
+ Add    include "stats/stats.php";    to your index.php
+ Create a Database
+ Import the "Database.sql" to the new created Database
+ change the "config.php with the new 	Database credentials
 
