@@ -1,8 +1,8 @@
 # HackProtect
  
-Protect your "Content Managment System" from Hackers and show Stats.
-The code is very easy, so you can change it.
-This code is optimised for a Magento Shop, but you can easly change the code for your need
+Protect your "Content Managment System" from Hackers and show Stats.<br/>
+The code is very easy, so you can change it.<br/>
+This code is optimised for a Magento Shop, but you can easly change the code for your need<br/>
 
 - Show the Stats only from real Users
 - Block Hackers one Day , make your own rules to Block IPs
